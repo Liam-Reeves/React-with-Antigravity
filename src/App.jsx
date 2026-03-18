@@ -3,6 +3,7 @@ import Footer from './Footer.jsx'
 import Food from './Food.jsx'
 import Card from './Card.jsx'
 import Button from './Button/Button.jsx'
+import Box from './Box.jsx'
 import "./index.css"
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Footer />
       <Card />
       <Button />
+      <Box />
     </div>
     </>
   )
